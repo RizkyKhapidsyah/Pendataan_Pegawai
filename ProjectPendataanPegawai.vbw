@@ -1,0 +1,10 @@
+FormLogin = 154, 203, 680, 633, , 44, 58, 570, 488, C
+FormUtama = 0, 0, 0, 0, C, 104, 104, 903, 521, C
+Module1 = 130, 130, 1319, 512, 
+FormDaftarPenggunaBaru = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FormInput_DATAIDENTITASPEGAWAI = 78, 78, 877, 495, , 0, 0, 0, 0, C
+FormTambahList = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FormKalender = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FormInput_DATAABSENSIPEGAWAI = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FormInput_DATAKELUHANPEGAWAI = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+FormInput_DATALEMBURPEGAWAI = 0, 0, 0, 0, C, 0, 0, 0, 0, C
